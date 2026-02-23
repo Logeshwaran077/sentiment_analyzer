@@ -1,0 +1,6 @@
+com\generativeai\sentiment\service\SentimentAnalysisService.class
+com\generativeai\sentiment\entity\Feedback$SentimentType.class
+com\generativeai\sentiment\SentimentAnalyzerBeApplication.class
+com\generativeai\sentiment\controller\FeedbackController.class
+com\generativeai\sentiment\entity\Feedback.class
+com\generativeai\sentiment\repository\FeedbackReposiotry.class
